@@ -1,1 +1,3 @@
-# AVG-Optimizer
+streamlit
+matplotlib
+numpy
